@@ -124,6 +124,6 @@ if (empty($_POST) === false) {
 		</div>
 	</form>
   <a href="https://www.google.fr">Lien google</a>
-
+  <a href="https://www.facebook.fr">Lien facebook</a>
 </body>
 </html>
