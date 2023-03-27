@@ -1,7 +1,5 @@
 <?php
 
-echo 'toto';
-
 require 'includes/connexion_bdd.php';
 
 // Filtres PHP (utilisés notamment avec filter_var)
@@ -125,5 +123,7 @@ if (empty($_POST) === false) {
 			<input type="submit" name="validation">
 		</div>
 	</form>
+  <a href="https://www.google.fr">Lien google</a>
+  <a href="https://www.facebook.fr">Lien facebook</a>
 </body>
 </html>
